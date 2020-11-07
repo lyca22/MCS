@@ -1,0 +1,1 @@
+cmd %cd% /c javac -cp src src/ui/Test01.java -d bin & java -cp bin ui.Test01 & pause

@@ -1,0 +1,1 @@
+cmd %cd% /c javadoc -d docs -use src/model/*.java src/ui/*.java
